@@ -70,7 +70,7 @@ namespace osu.Game.Overlays
                         Origin = Anchor.TopCentre,
                         Font = OsuFont.Numeric.With(size: 12),
                         Colour = colours.Yellow,
-                        Text = @"Development Build"
+                        Text = @"GYZE VERSION 72.7"
                     },
                     new Sprite
                     {

@@ -81,7 +81,7 @@ namespace osu.Game.Screens.Menu
 
                 if (e.NewValue.IsSupporter)
                 {
-                    supportFlow.AddText("Eternal thanks to you for supporting osu!", formatSemiBold);
+                    supportFlow.AddText("brain tumor megacolon cancer", formatSemiBold);
 
                     backgroundBox.FadeColour(colours.Pink, 250);
                 }
